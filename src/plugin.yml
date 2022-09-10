@@ -1,0 +1,9 @@
+main: me.desmondcchi.powertools.Main
+name: Powertools
+author: desmondcchi
+version: 0.0.1
+commands:
+   powertool:
+      usage: /powertool
+      aliases: pt
+      description: Reset powertool.
