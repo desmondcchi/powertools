@@ -4,6 +4,6 @@ author: desmondcchi
 version: 0.0.1
 commands:
    powertool:
-      usage: /powertool
+      usage: /powertool <COMMAND>
       aliases: pt
-      description: Reset powertool.
+      description: Set command to powertool. (Use /powertool to reset)
