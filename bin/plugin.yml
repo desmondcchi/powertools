@@ -2,6 +2,7 @@ main: me.desmondcchi.powertools.Main
 name: Powertools
 author: desmondcchi
 version: 0.0.1
+api-version: 1.19
 commands:
    powertool:
       usage: /powertool <COMMAND>
